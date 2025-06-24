@@ -5,7 +5,7 @@ to yourself and paste in the TELEGRAM_CHAT_ID. Dont send email yet.
 
 2. In Telegram use the previous search area to search for @botfather and tap on the top account that appears. Press start, and you're given a large list of options.
 Type in the message input /newbot and push send. You will be required to name the bot, choose whatever you want. You'll finally be given your TELEGRAM_TOKEN. Copy 
-the TELEGRAM_TOKEN value and paste it into your prepared email with you TELEGRAM_CHAT_ID, and send the email to yourself.
+the TELEGRAM_TOKEN value and paste it into your prepared email with your TELEGRAM_CHAT_ID, and send the email to yourself.
 
 3. On your computer, open the email from yourself. 
 4. Open bash in BabySqueezeFlash directory, and type commands -
