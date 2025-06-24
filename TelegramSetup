@@ -1,0 +1,16 @@
+This bot integrates Telegram messenger for live bot stats, trades, and alerts. The instructions for setup are as simple as possible. Follow these steps.
+
+1. Open Telegram and search for user @userinfobot and tap on the top account that appears. Press start, and you're given your TELEGRAM_CHAT_ID. Prepare an email 
+to yourself and paste in the TELEGRAM_CHAT_ID. Dont send email yet.
+
+2. In Telegram use the previous search area to search for @botfather and tap on the top account that appears. Press start, and you're given a large list of options.
+Type in the message input /newbot and push send. You will be required to name the bot, choose whatever you want. You'll finally be given your TELEGRAM_TOKEN. Copy 
+the TELEGRAM_TOKEN value and paste it into your prepared email with you TELEGRAM_CHAT_ID, and send the email to yourself.
+
+3. On your computer, open the email from yourself. 
+4. Open bash in BabySqueezeFlash directory, and type commands -
+
+npm install
+node startFlashBot.js
+
+5. During setup, you will be prompted to carefully paste in your PRIVATE_KEY, your RPC_URL, your TELGRAM_TOKEN, and TELEGRAM_CHAT_ID. Follow the remaining script carefully.
