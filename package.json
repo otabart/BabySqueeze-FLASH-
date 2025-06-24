@@ -1,0 +1,24 @@
+{
+  "name": "light-leverage-bizzot",
+  "version": "1.0.0",
+  "description": "Longs or shorts ETH at Moonwell",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "trading",
+    "bot",
+    "base",
+    "network",
+    "crypto"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.1",
+    "ethers": "^5.7.2",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
